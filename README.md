@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giosue Lagunez
-- 👀 I’m interested in control systems engineering
-- 🌱 I’m currently learning more about system modeling and control
+- 👀 I’m interested in software development and control systems engineering
+- 🌱 I’m currently learning more about software development 
 - 💞️ I’m looking to collaborate on modeling and control of complex systems
 - 📫 How to reach me ... nestorgiosue@gmail.com
 
