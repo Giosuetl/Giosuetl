@@ -3,9 +3,10 @@
 -  I’m currently learning more about software development 
 -  I’m looking to collaborate on modeling and control of complex systems
 -  How to reach me ... nestorgiosue@gmail.com
--  
+  
 
-- **Codewars**:
+
+  **Codewars**:
 
     ![Terminal](https://www.codewars.com/users/Gostl/badges/large)
 <!---
