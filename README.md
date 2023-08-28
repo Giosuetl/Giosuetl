@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hi ,  Hi, I’m Nestor Lagunez </b><img src="https://github.com/Giosuetl/assets/blob/main/vsgif.gif" width="35"></h1>
+
+
+<h1 align="center"><b>Hi , I’m Nestor Lagunez </b><img src="https://github.com/Giosuetl/assets/blob/main/vsgif.gif" width="55"></h1>
 
 
 -  I’m interested in software development and control systems engineering
