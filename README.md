@@ -5,7 +5,7 @@
 -  How to reach me ... nestorgiosue@gmail.com
 -  
 
-- **Extras**:
+- **Codewars**:
 
     ![Terminal](https://www.codewars.com/users/Gostl/badges/large)
 <!---
