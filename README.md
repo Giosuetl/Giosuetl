@@ -6,7 +6,7 @@
   
 
 
-  **Codewars**:
+    **Codewars**:
 
     ![Terminal](https://www.codewars.com/users/Gostl/badges/large)
 <!---
