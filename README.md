@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><b>Hi , I’m Nestor Lagunez </h1>
+<h1 align="center"><b>Hi , I’m Nestor  </h1>
 
 	
 ## <picture><img src = "https://github.com/Giosuetl/assets/blob/main/vsgif.gif" width = 40px></picture> **About me**
