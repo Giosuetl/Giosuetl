@@ -5,8 +5,6 @@
 	
 ## <picture><img src = "https://github.com/Giosuetl/CUDA-Horn_Schunk/blob/main/Captura%20de%20pantalla%202025-02-19%20130503.png" width = 40px></picture> **About me**
 
--  I’m interested in software development and control systems engineering
--  I’m currently learning more about software development 
 -  nestorgiosue@gmail.com
   
 
